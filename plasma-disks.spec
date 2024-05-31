@@ -9,7 +9,7 @@
 #
 Name     : plasma-disks
 Version  : 6.0.5
-Release  : 7
+Release  : 8
 URL      : https://download.kde.org/stable/plasma/6.0.5/plasma-disks-6.0.5.tar.xz
 Source0  : https://download.kde.org/stable/plasma/6.0.5/plasma-disks-6.0.5.tar.xz
 Source1  : https://download.kde.org/stable/plasma/6.0.5/plasma-disks-6.0.5.tar.xz.sig
